@@ -1,7 +1,15 @@
 # Awesome_JS_Filetypes
 
-Awesome list of open source (no commercial!) Javascript Web-Frontend Librarys for handling different filetypes directly in the Browser.
+Awesome list of open source (not commercial!) Javascript Web-Frontend Librarys for handling different filetypes directly in the Browser.
 Please extend this list if you miss something.
+
+## Browser-native handlings (you don´t need Javascript, no Browser plugins!)
+| Library     | Description                | Postfixes                                                |
+|:------------|:---------------------------|:--------------------------------------------------------:|
+| Chromium 85 | Video                      | ogv, mp4, webm
+| Chromium 85 | Audio                      | mp3, wav, ogg
+| Chromium 85 | Images                     | png, ico, bmp, jpg, gif
+| Chromium 85 | Documents                  | pdf
 
 ## Compression
 | Library                                                           | Description             | Postfixes                                                |
@@ -55,12 +63,12 @@ Please extend this list if you miss something.
 | Library                                                           | Description             | Postfixes                                                |
 |:------------------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
 | DOSEMU                                                            |
-| GameBoy / Gameboy Color                                           | | gb, gbc
-| GameBoy advanced                                                  | | gba
 | JSDosbox                                                          |
-| jsnes                                                             | | .nes
-| Playstation portable                                              |
-| V86                                                               | can run e.g. Windows 95 in the Browser | .iso, .bin 
+| GameBoy / Gameboy Color                                           | can play Gameboy-Roms   | .gb, .gbc
+| GameBoy advanced                                                  | can play Gameboy-Roms   | .gba
+| jsnes                                                             | can play NES-Roms       | .nes
+| Playstation portable                                              | can play PSP games      | .psp
+| V86                                                               | can run Win95,Linux     | .iso, .bin 
 
 
 ## Fonts
