@@ -9,13 +9,13 @@ Please extend this list if you miss something.
 |:------------|:---------------------------|:--------------------------------------------------------:|
 | Chromium 85 | Video                      | ogv, mp4, webm
 | Chromium 85 | Audio                      | mp3, wav, ogg
-| Chromium 85 | Images                     | png, ico, bmp, jpg, gif
+| Chromium 85 | Images                     | png, ico, bmp, jpg, gif, webm
 | Chromium 85 | Documents                  | pdf
 
 ## Compression
 | Library                                                           | Description             | Postfixes                                                |
 |:------------------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
-| [ArchiveJS](https://github.com/nika-begiashvili/libarchivejs)     | WASM-Port of [libarchive](https://github.com/libarchive/libarchive) | Tested: Zip, 7Zip, Rar (V4,V5), TAR                      |
+| [ArchiveJS](https://github.com/nika-begiashvili/libarchivejs)     | WASM-Port of [libarchive](https://github.com/libarchive/libarchive) | Tested: Zip, 7Zip, Rar (V4,V5), TAR
 | RarJS         | RarJS                   | Rar (V4,V5)                                              |                                                             |
 | ZipJS         | ZipJS                   | Zip                                                      |                                                             |
 | TarJS         | TarJS                   | Tar                                                      |                                                             |
@@ -54,7 +54,7 @@ Please extend this list if you miss something.
 ## Database
 | Library                                                           | Description             | Postfixes                                                |
 |:------------------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
-| SQLite (WASM)                                                     | SQLIte Database         | sqlite
+| SQLite (WASM)                                                     | SQLIte Database         | .sqlite, (or each sqlite postfix you use)
 
 ## Download
 | Library                                                           | Description             | Postfixes                                                |
@@ -76,7 +76,7 @@ Please extend this list if you miss something.
 ## Fonts
 | Library    | Description             | Postfixes                                                |
 |:-----------|:------------------------|:--------------------------------------------------------:|
-| OpentypeJS |
+| OpentypeJS | | .ttf, ...
 | SVGFont    | | .svg
 | TTFFont    | | .ttf
 
@@ -92,7 +92,7 @@ Please extend this list if you miss something.
 | X | PopCorn    |                         | Browser-native Videos (e.g. MP4,OGV,WEBM)
 | X | Projekktor |                         | Browser-native Videos (e.g. MP4,OGV,WEBM)
 | X | VideoJS    |                         | Browser-native Videos (e.g. MP4,OGV,WEBM)
-| _ | FFMPEG     | WASM-Port untested      |
+| _ | FFMPEGJS   | different WASM-Ports    | Audio / Video files based on Port
 
 ## Image
 | I | Library                                                 | Description             | Postfixes                                                |
