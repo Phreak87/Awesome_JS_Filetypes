@@ -1,6 +1,7 @@
 # Awesome_JS_Filetypes
 
 Awesome list of open source (not commercial!) Javascript Web-Frontend Librarys for handling different filetypes directly in the Browser.
+This means that the files should never leave the own webserver.
 Please extend this list if you miss something.
 
 ## Browser-native handlings (you don´t need Javascript, no Browser plugins!)
@@ -86,12 +87,12 @@ Please extend this list if you miss something.
 | webshark   | |
 
 ## Video
-| Library    | Description             | Postfixes                                                |
-|:-----------|:------------------------|:--------------------------------------------------------:|
-| PopCorn    | |
-| Projekktor | |
-| VideoJS    | |
-
+| I | Library    | Description             | Postfixes                                                |
+|:--|:-----------|:------------------------|:--------------------------------------------------------:|
+| X | PopCorn    |                         | Browser-native Videos (e.g. MP4,OGV,WEBM)
+| X | Projekktor |                         | Browser-native Videos (e.g. MP4,OGV,WEBM)
+| X | VideoJS    |                         | Browser-native Videos (e.g. MP4,OGV,WEBM)
+| _ | FFMPEG     | WASM-Port untested      |
 
 ## Image
 | I | Library                                                 | Description             | Postfixes                                                |
@@ -101,9 +102,11 @@ Please extend this list if you miss something.
 | X | OCracy                                                  | AI Text detection
 | X | OpenCV                                                  | Open Computer Vision
 | X | PSDJS                                                   | Photoshop PSD-Viewer
-| X | RawsonJS                                                | View Raw Camera Images
+| X | RawsonJS                                                | View Raw Camera Images   | 
 | X | Tesseract                                               | Text detection (WASM)    | Webbrowser-native images (jpg, png, bmp)
 | X | ZXing                                                   | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
+| _ | [Med3Ved](https://med3web.opensource.epam.com/)         | Dicom                    | ktx,dcm,mii,hdr,h,img
+|
 | _ | SliceDrop                                               | Medical DICOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM) 
 | _ | ...                                                     | ...                      | Models(.obj,.vtk,.stl,FreeSurfer)
 
@@ -135,7 +138,9 @@ Please extend this list if you miss something.
 | X | Skulpt         | Imaging                                 | 
 | X | WebGerber      | CNC-based Gerber files                  | .gbr, .drl
 
-
+## Sort
+| I | Library        | Description                             | Postfixes                                                |
+|:--|:---------------|:----------------------------------------|:--------------------------------------------------------:|
 
 
 
