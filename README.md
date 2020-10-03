@@ -106,37 +106,37 @@ Please extend this list if you miss something.
 | X | Tesseract                                               | Text detection (WASM)    | Webbrowser-native images (jpg, png, bmp)
 | X | ZXing                                                   | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
 | _ | [Med3Ved](https://med3web.opensource.epam.com/)         | Dicom                    | ktx,dcm,mii,hdr,h,img
-|
 | _ | SliceDrop                                               | Medical DICOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM) 
 | _ | ...                                                     | ...                      | Models(.obj,.vtk,.stl,FreeSurfer)
 
 ## Documents
-| Library     | Description             | Postfixes                                                |
-|:------------|:------------------------|:--------------------------------------------------------:|
-| DJVU        | | .DJVU
-| EPubJS      | | .Epub
-| LatexMathML | | .???
-| RTF         | | .RTF
-| SheetJS     | | .xls, .odf
-| ViewerJS    | | .pdf
+| I | Library                                                 | Description             | Postfixes                                                |
+|:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
+| X | DJVU                                                    | Ebooks                  | .djvu
+| X | EPubJS                                                  | Ebooks                  | .epub
+| X | LatexMathML                                             |                         | .???
+| X | RTF                                                     | Rich-text format        | .RTF
+| X | SheetJS                                                 |                         | .xls, .odf
+| X | ViewerJS                                                |                         | .pdf
+| _ | [RAWGraphs](https://rawgraphs.io/)                      | Visual presentation of text-based data | txt, csv
 
 ## Others
-| I | Library        | Description                             | Postfixes                                                |
-|:--|:---------------|:----------------------------------------|:--------------------------------------------------------:|
-| X | Cyberchef      | Can read and decode based on your needs | All Files (Binary)
-| X | CryptoJS       | Can Create Hashes from all Files        | 
-| X | PASM           | Assembly                                | .asm
-| X | EXIFJS         | Parse Exif Informations                 | All Files (Binary)
-| X | HexView        | View Binarys                            | All Files (Binary)
-| X | ical           | Calendar files           
-| X | icebuddha      | View Binarys                            | All Files (Binary)
-| X | KNWL           |
-| X | MathJax        | Math Expressions                       
-| X | Mermaid        | 
-| X | MSGReader      | Mail reader                             | .msg
-| X | QMLWeb         |                                         |.qml
-| X | Skulpt         | Imaging                                 | 
-| X | WebGerber      | CNC-based Gerber files                  | .gbr, .drl
+| I | Library                                                 | Description             | Postfixes                                                |
+|:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
+| X | Cyberchef                                               | Can read and decode based on your needs | All Files (Binary)
+| X | CryptoJS                                                | Can Create Hashes from all Files        | 
+| X | PASM                                                    | Assembly                                | .asm
+| X | EXIFJS                                                  | Parse Exif Informations                 | All Files (Binary)
+| X | HexView                                                 | View Binarys                            | All Files (Binary)
+| X | ical                                                    | Calendar files           
+| X | icebuddha                                               | View Binarys                            | All Files (Binary)
+| X | KNWL                                                    |
+| X | MathJax                                                 | Math Expressions                       
+| X | Mermaid                                                 | 
+| X | MSGReader                                               | Mail reader                             | .msg
+| X | QMLWeb                                                  |                                         |.qml
+| X | Skulpt                                                  | Imaging                                 | 
+| X | WebGerber                                               | CNC-based Gerber files                  | .gbr, .drl
 
 ## Sort
 | I | Library        | Description                             | Postfixes                                                |
