@@ -22,10 +22,10 @@ Please extend this list if you miss something.
 ## 3D
 | I | Library                                                 | Description             | Postfixes                                                |
 |:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
-| X | [ThreeJS](https://threejs.org/)                         | 3D-Library              | stl, obj, gltf, assimp, babylon, collada, awd, svg, vrml, vtk, tga, pdb, ply, ctm,  ...?
+| X | [ThreeJS](https://threejs.org/)                         | 3D-Library              | stl, obj, gltf, assimp, babylon, collada, awd, svg, vrml, vtk, tga, pdb, ply, ,  ...?
 | X | GCodeReader                                             | 3D-Print Library        | g, gco, gcode (and all GCode types)                      
 | X | Hangar                                                  | 3D-View of Hangar Files | ac3d (.ac)
-| X | [NGLViewer](http://nglviewer.org/nglview/latest/#usage) | Atoms, molecules        | see link                                                 
+| X | [NGLViewer](https://github.com/nglviewer/ngl)           | Atoms, molecules        | .pdb,.cif,.cif.gz, mmtf,gro,mtl,ply,kin,pqr,dx.gz,dxbin,ccp4, sdf,obj,cub,map.gz, ctm,cns,xml,brix,dsn6, prmtop,mol2,dcd,psf,cube,cube.gt,ent,pdbqt, mrc,dcd,dcd.gz                                        
 | X | OpenJSCad                                               | CAD-Modelling           | jscad, openscad                                          
 | X | SceneJS                                                 | 
 | _ | SliceDrop                                               | Medical DCOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM), Models(.obj,.vtk,.stl,FreeSurfer)
