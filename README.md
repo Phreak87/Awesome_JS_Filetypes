@@ -102,7 +102,7 @@ Please extend this list if you miss something.
 | X | OCracy                                                  | AI Text detection
 | X | OpenCV                                                  | Open Computer Vision
 | X | PSDJS                                                   | Photoshop PSD-Viewer
-| X | RawsonJS                                                | View Raw Camera Images   | 
+| X | RawsonJS                                                | View Raw Camera Images   | jpeg, .jpg, .jpe, .png, .3fr, .ari, .arw, .bay, .crw, .cr2, .cap, .dcs, .dcr, .dng, .drf, .eip, .erf, .fff, .iiq, .k25, .kdc, .mef, .mos, .mrw, .nef, .nrw, .obm, .orf, .pef, .ptx, .pxn, .r3d, .raf, .raw, .rwl, .rw2, .rwz, .sr2, .srf, .srw, .x3f
 | X | Tesseract                                               | Text detection (WASM)    | Webbrowser-native images (jpg, png, bmp)
 | X | ZXing                                                   | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
 | _ | [Med3Ved](https://med3web.opensource.epam.com/)         | Dicom                    | ktx,dcm,mii,hdr,h,img
