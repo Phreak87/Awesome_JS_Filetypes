@@ -20,20 +20,20 @@ Please extend this list if you miss something.
 | TarJS         | TarJS                   | Tar                                                      |                                                             |
 
 ## 3D
-| Library       | Description             | Postfixes                                                | Link                                                        |
-|:--------------|:------------------------|:--------------------------------------------------------:|------------------------------------------------------------:|
-| ThreeJS       | 3D-Library              | stl, obj, gltf, assimp, babylon, collada, awd, svg, vrml, vtk, tga, pdb, ply, ctm,  ...?                                     | [ThreeJS](https://threejs.org/)
-| GCodeReader   | 3D-Print Library        | g, gco, gcode (and all GCode types)                      | []()
-| Hangar        | 3D-View of Hangar Files | ac3d (.ac)
-| NGLViewer     | Atoms, molecules        | see link                                                 | [NGLViewer](http://nglviewer.org/nglview/latest/#usage)
-| OpenJSCad     | CAD-Modelling           | jscad, openscad                                          | 
-| SceneJS       | 
-| SliceDrop     | Medical DCOM-Viewer     |
-| ThreeDXF      | DXF
-| WebXF         | 
-| WEXBIM        | Wexbim
-| X3Dom         | 
-| PlasIO        | PointCloud
+| I | Library                                                 | Description             | Postfixes                                                |
+|:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
+| X | [ThreeJS](https://threejs.org/)                         | 3D-Library              | stl, obj, gltf, assimp, babylon, collada, awd, svg, vrml, vtk, tga, pdb, ply, ctm,  ...?
+| X | GCodeReader                                             | 3D-Print Library        | g, gco, gcode (and all GCode types)                      
+| X | Hangar                                                  | 3D-View of Hangar Files | ac3d (.ac)
+| X | [NGLViewer](http://nglviewer.org/nglview/latest/#usage) | Atoms, molecules        | see link                                                 
+| X | OpenJSCad                                               | CAD-Modelling           | jscad, openscad                                          
+| X | SceneJS                                                 | 
+| _ | SliceDrop                                               | Medical DCOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM), Models(.obj,.vtk,.stl,FreeSurfer)
+| X | ThreeDXF                                                | DXF
+| X | WebXF                                                   | 
+| X | WEXBIM                                                  | Wexbim
+| X | X3Dom                                                   | 
+| _ | PlasIO                                                  | PointCloud
 
 ## AI
 | Library                                                           | Description             | Postfixes                                                |
