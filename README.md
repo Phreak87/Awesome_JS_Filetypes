@@ -25,10 +25,11 @@ Please extend this list if you miss something.
 | X | [ThreeJS](https://threejs.org/)                         | 3D-Library              | stl, obj, gltf, assimp, babylon, collada, awd, svg, vrml, vtk, tga, pdb, ply, ,  ...?
 | X | GCodeReader                                             | 3D-Print Library        | g, gco, gcode (and all GCode types)                      
 | X | Hangar                                                  | 3D-View of Hangar Files | ac3d (.ac)
-| X | [NGLViewer](https://github.com/nglviewer/ngl)           | Atoms, molecules        | .pdb,.cif,.cif.gz, mmtf,gro,mtl,ply,kin,pqr,dx.gz,dxbin,ccp4, sdf,obj,cub,map.gz, ctm,cns,xml,brix,dsn6, prmtop,mol2,dcd,psf,cube,cube.gt,ent,pdbqt, mrc,dcd,dcd.gz                                        
+| X | [NGLViewer](https://github.com/nglviewer/ngl)           | Atoms, molecules        | .pdb,.cif,.cif.gz, mmtf,gro,mtl,ply,kin,pqr,dx.gz,
+| X | ...                                                     | ...                     | dxbin,ccp4, sdf,obj,cub,map.gz, ctm,cns,xml,brix,dsn6,
+| X | ...                                                     | ...                     | ctm,cns,xml,brix,dsn6prmtop,mol2,dcd,psf,cube,cube.gt,ent,pdbqt, mrc,dcd,dcd.gz
 | X | OpenJSCad                                               | CAD-Modelling           | jscad, openscad                                          
 | X | SceneJS                                                 | 
-| _ | SliceDrop                                               | Medical DCOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM), Models(.obj,.vtk,.stl,FreeSurfer)
 | X | ThreeDXF                                                | DXF
 | X | WebXF                                                   | 
 | X | WEXBIM                                                  | Wexbim
@@ -93,16 +94,18 @@ Please extend this list if you miss something.
 
 
 ## Image
-| Library    | Description             | Postfixes                                                |
-|:-----------|:------------------------|:--------------------------------------------------------:|
-| IMMagick         | ImageMagick in the Browser (WASM)
-| GraphicsMagick   | GraphicsMagick in the Browser (WASM)
-| OCracy     | AI Text detection
-| OpenCV     | Open Computer Vision
-| PSDJS      | Photoshop PSD-Viewer
-| RawsonJS   | View Raw Camera Images
-| Tesseract  | Text detection (WASM)    | Webbrowser-native images (jpg, png, bmp)
-| ZXing      | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
+| I | Library                                                 | Description             | Postfixes                                                |
+|:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
+| X | IMMagick                                                | ImageMagick in the Browser (WASM)
+| X | GraphicsMagick                                          | GraphicsMagick in the Browser (WASM)
+| X | OCracy                                                  | AI Text detection
+| X | OpenCV                                                  | Open Computer Vision
+| X | PSDJS                                                   | Photoshop PSD-Viewer
+| X | RawsonJS                                                | View Raw Camera Images
+| X | Tesseract                                               | Text detection (WASM)    | Webbrowser-native images (jpg, png, bmp)
+| X | ZXing                                                   | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
+| _ | SliceDrop                                               | Medical DICOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM) 
+| _ | ...                                                     | ...                      | Models(.obj,.vtk,.stl,FreeSurfer)
 
 ## Documents
 | Library     | Description             | Postfixes                                                |
@@ -115,22 +118,23 @@ Please extend this list if you miss something.
 | ViewerJS    | | .pdf
 
 ## Others
-| Library    | Description                             | Postfixes                                                |
-|:-----------|:----------------------------------------|:--------------------------------------------------------:|
-| Cyberchef  | Can read and decode based on your needs
-| CryptoJS   | Can Create Hashes from all Files 
-| PASM       | Assembly
-| EXIFJS     | Parse Exif Informations
-| HexView    | View Binarys
-| ical       | Calendar files
-| icebuddha  | View Binarys
-| KNWL       |
-| MathJax    | Math Expressions
-| Mermaid    | 
-| MSGReader  | Mail reader | .msg
-| QMLWeb     | .qml
-| Skulpt     | Imaging
-| WebGerber  | CNC-based Gerber files | .gbr, 
+| I | Library        | Description                             | Postfixes                                                |
+|:--|:---------------|:----------------------------------------|:--------------------------------------------------------:|
+| X | Cyberchef      | Can read and decode based on your needs | All Files (Binary)
+| X | CryptoJS       | Can Create Hashes from all Files        | 
+| X | PASM           | Assembly                                | .asm
+| X | EXIFJS         | Parse Exif Informations                 | All Files (Binary)
+| X | HexView        | View Binarys                            | All Files (Binary)
+| X | ical           | Calendar files           
+| X | icebuddha      | View Binarys                            | All Files (Binary)
+| X | KNWL           |
+| X | MathJax        | Math Expressions                       
+| X | Mermaid        | 
+| X | MSGReader      | Mail reader                             | .msg
+| X | QMLWeb         |                                         |.qml
+| X | Skulpt         | Imaging                                 | 
+| X | WebGerber      | CNC-based Gerber files                  | .gbr, .drl
+
 
 
 
