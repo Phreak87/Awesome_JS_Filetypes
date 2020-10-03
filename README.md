@@ -118,7 +118,7 @@ Please extend this list if you miss something.
 | X | RTF                                                     | Rich-text format        | .RTF
 | X | SheetJS                                                 |                         | .xls, .odf
 | X | ViewerJS                                                |                         | .pdf
-| _ | [RAWGraphs](https://rawgraphs.io/)                      | Visualize text data     | TSV, CSV, DSV, JSON and Excel files (.xls, .xlsx)
+| X | [RAWGraphs](https://rawgraphs.io/)                      | Visualize text data     | TSV, CSV, DSV, JSON and Excel files (.xls, .xlsx)
 
 ## Others
 | I | Library                                                 | Description             | Postfixes                                                |
