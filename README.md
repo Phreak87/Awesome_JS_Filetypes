@@ -97,7 +97,7 @@ Please extend this list if you miss something.
 ## Image
 | I | Library                                                 | Description             | Postfixes                                                |
 |:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
-| X | [IMMagick](https://github.com/KnicKnic/WASM-ImageMagick)| ImageMagick in the Browser (WASM) | jpg,png,psd,tiff,xcf,gif,bmp,tga,miff,ico,dcm,xpm,pcx,fits,ppm,pgm,pfm,mng,hdr,dds,otb,txt, psb
+| X | [IMMagick](https://github.com/KnicKnic/WASM-ImageMagick)| ImageMagick in the Browser (WASM) | jpg,png,psd,tiff,xcf,gif,bmp,tga,miff,ico,dcm,xpm,pcx,fits,ppm,pgm,pfm,mng,hdr,dds,otb,txt, psb, (list maybe incomplete. check other formats)
 | X | GraphicsMagick                                          | GraphicsMagick in the Browser (WASM)
 | X | OCracy                                                  | AI Text detection
 | X | OpenCV                                                  | Open Computer Vision
