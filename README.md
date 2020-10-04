@@ -119,6 +119,7 @@ Please extend this list if you miss something.
 | X | SheetJS                                                 |                         | .xls, .odf
 | X | ViewerJS                                                |                         | .pdf
 | X | [RAWGraphs](https://rawgraphs.io/)                      | Visualize text data     | TSV, CSV, DSV, JSON and Excel files (.xls, .xlsx)
+| X | [VizJs](https://github.com/mdaines/viz.js)              | Graphwiz Dot Viewer     | .dot                                                     
 
 ## Others
 | I | Library                                                 | Description             | Postfixes                                                |
