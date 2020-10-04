@@ -33,7 +33,7 @@ Please extend this list if you miss something.
 | X | SceneJS                                                 | 
 | X | ThreeDXF                                                | DXF
 | X | WebXF                                                   | 
-| X | WEXBIM                                                  | Wexbim
+| X | [WEXBIM](https://github.com/xBimTeam/XbimWebUI)         | Wexbim building information | IFC, ifcZIP, ifcXML
 | X | X3Dom                                                   | 
 | _ | PlasIO                                                  | PointCloud
 
