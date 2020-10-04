@@ -107,7 +107,7 @@ Please extend this list if you miss something.
 | X | ZXing                                                   | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
 | _ | [Med3Ved](https://med3web.opensource.epam.com/)         | Dicom                    | ktx,dcm,mii,hdr,h,img
 | _ | SliceDrop                                               | Medical DICOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM) 
-| _ | ...                                                     | ...                      | Models(.obj,.vtk,.stl,FreeSurfer)
+| _ | ...                                                     | ...                      | Models(.obj,.vtk,.stl) and Freesurfer-Models (gca, bshort, bfloat, COR, surface, curv, w, annot, patch, gcs, dat, xfm, m3d and lta)
 
 ## Documents
 | I | Library                                                 | Description             | Postfixes                                                |
@@ -131,13 +131,13 @@ Please extend this list if you miss something.
 | X | HexView                                                 | View Binarys                            | All Files (Binary)
 | X | ical                                                    | Calendar files           
 | X | icebuddha                                               | View Binarys                            | All Files (Binary)
-| X | KNWL                                                    |
+| X | KNWL                                                    | Reads address, dates, ... from text     | All Text-based Files.
 | X | MathJax                                                 | Math Expressions                       
 | X | Mermaid                                                 | 
 | X | MSGReader                                               | Mail reader                             | .msg
 | X | QMLWeb                                                  |                                         |.qml
 | X | Skulpt                                                  | Imaging                                 | 
-| X | WebGerber                                               | CNC-based Gerber files                  | .gbr, .drl
+| X | WebGerber                                               | CNC-based Gerber files                  | .gbr, .drl (and all layer derivates)
 
 ## Sort
 | I | Library        | Description                             | Postfixes                                                |
