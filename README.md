@@ -138,7 +138,7 @@ Please extend this list if you miss something.
 | X | MSGReader                                               | Mail reader                             | .msg
 | X | QMLWeb                                                  |                                         |.qml
 | X | Skulpt                                                  | Imaging                                 | 
-| X | WebGerber                                               | CNC-based Gerber files                  | drl, drd, txt, .out, gml, outline, gbl, sol, gbs, sts, gbp, crs, gbo, pls, gtl, cmp, gts, stc,gtp, crc, gto, plc
+| X | [WebGerber](https://github.com/attie/webgerber)         | CNC-based Gerber files                  | drl, drd, txt, .out, gml, outline, gbl, sol, gbs, sts, gbp, crs, gbo, pls, gtl, cmp, gts, stc,gtp, crc, gto, plc
 
 ## Sort
 | I | Library        | Description                             | Postfixes                                                |
