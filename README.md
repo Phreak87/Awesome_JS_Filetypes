@@ -26,9 +26,7 @@ Please extend this list if you miss something.
 | X | [ThreeJS](https://threejs.org/)                         | 3D-Library              | stl, obj, gltf, assimp, babylon, collada, awd, svg, vrml, vtk, tga, pdb, ply, ,  ...?
 | X | GCodeReader                                             | 3D-Print Library        | g, gco, gcode (and all GCode types)                      
 | X | Hangar                                                  | 3D-View of Hangar Files | ac3d (.ac)
-| X | [NGLViewer](https://github.com/nglviewer/ngl)           | Atoms, molecules        | .pdb,.cif,.cif.gz, mmtf,gro,mtl,ply,kin,pqr,dx.gz,
-| X | ...                                                     | ...                     | dxbin,ccp4, sdf,obj,cub,map.gz, ctm,cns,xml,brix,dsn6,
-| X | ...                                                     | ...                     | ctm,cns,xml,brix,dsn6prmtop,mol2,dcd,psf,cube,cube.gt,ent,pdbqt, mrc,dcd,dcd.gz
+| X | [NGLViewer](https://github.com/nglviewer/ngl)           | Atoms, molecules        | .pdb,.cif,.cif.gz, mmtf,gro,mtl,ply,kin,pqr,dx.gz,dxbin,ccp4, sdf,obj,cub,map.gz, ctm,cns,xml,brix,dsn6,ctm,cns,xml,brix,dsn6prmtop,mol2,dcd,psf,cube,cube.gt,ent,pdbqt, mrc,dcd,dcd.gz
 | X | OpenJSCad                                               | CAD-Modelling           | jscad, openscad                                          
 | X | SceneJS                                                 | 
 | X | ThreeDXF                                                | DXF
