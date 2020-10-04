@@ -105,6 +105,7 @@ Please extend this list if you miss something.
 | X | RawsonJS                                                | View Raw Camera Images   | jpeg, .jpg, .jpe, .png, .3fr, .ari, .arw, .bay, .crw, .cr2, .cap, .dcs, .dcr, .dng, .drf, .eip, .erf, .fff, .iiq, .k25, .kdc, .mef, .mos, .mrw, .nef, .nrw, .obm, .orf, .pef, .ptx, .pxn, .r3d, .raf, .raw, .rwl, .rw2, .rwz, .sr2, .srf, .srw, .x3f
 | X | Tesseract                                               | Text detection (WASM)    | Webbrowser-native images (jpg, png, bmp)
 | X | ZXing                                                   | 2D and 3D Barcode reader | can read QR, DataMatrix from jpg, png, bmp, ...
+| _ | [openseadragon](https://openseadragon.github.io)        | HD-Image Viewer          | iiif, dzi, osm, tms
 | _ | [Med3Ved](https://med3web.opensource.epam.com/)         | Dicom                    | ktx,dcm,mii,hdr,h,img
 | _ | SliceDrop                                               | Medical DICOM-Viewer     | Fibers (.trk,.tko), Volumes (.mgh,.mgz,.nrrd,.nii,.nii.gz,DICOM) 
 | _ | ...                                                     | ...                      | Models(.obj,.vtk,.stl) and Freesurfer-Models (gca, bshort, bfloat, COR, surface, curv, w, annot, patch, gcs, dat, xfm, m3d and lta)
