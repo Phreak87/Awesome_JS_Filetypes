@@ -8,7 +8,7 @@ Please extend this list if you miss something.
 | Library     | Description                | Postfixes                                                |
 |:------------|:---------------------------|:--------------------------------------------------------:|
 | Chromium 85 | Video                      | ogv, mp4, webm
-| Chromium 85 | Audio                      | mp3, wav, ogg
+| Chromium 85 | Audio                      | mp3, mp4, wav (pcm), ogg, aac, webm, flac
 | Chromium 85 | Images                     | png, ico, bmp, jpg, gif, webm
 | Chromium 85 | Documents                  | pdf
 
@@ -97,7 +97,7 @@ Please extend this list if you miss something.
 ## Image
 | I | Library                                                 | Description             | Postfixes                                                |
 |:--|:--------------------------------------------------------|:------------------------|:--------------------------------------------------------:|
-| X | IMMagick                                                | ImageMagick in the Browser (WASM)
+| X | [IMMagick](https://github.com/KnicKnic/WASM-ImageMagick)| ImageMagick in the Browser (WASM) | jpg,png,psd,tiff,xcf,gif,bmp,tga,miff,ico,dcm,xpm,pcx,fits,ppm,pgm,pfm,mng,hdr,dds,otb,txt, psb
 | X | GraphicsMagick                                          | GraphicsMagick in the Browser (WASM)
 | X | OCracy                                                  | AI Text detection
 | X | OpenCV                                                  | Open Computer Vision
